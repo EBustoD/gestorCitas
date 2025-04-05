@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gestor de Citas
 
 A modern appointment management system built with Next.js and React. This application allows users to manage appointments through an intuitive calendar interface.
@@ -88,4 +87,4 @@ A modern appointment management system built with Next.js and React. This applic
 
 - El job de las citas se lanza cada mañana a las 8AM y manda un aviso a todas las personas que tengan una cita al dia siguiente del que se lanza el job.
 - Para modificar la frecuencia se hace en jobs/reminder.js
->>>>>>> 20ef60651de6a3f4197683cc8565ea27f72308c9
+
